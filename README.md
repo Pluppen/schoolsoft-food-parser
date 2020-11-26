@@ -10,5 +10,5 @@ To be able to use this package you will need a key. The following steps will sho
 6. Your key is located in the url after the key query.
 
 Example: 
-https://sms.schoolsoft.se/example/jsp/public/right_public_student_ical.jsp?key=__238893jdnawdwd828282__
-In the URL example above the key is formatted with bold text.
+https://sms.schoolsoft.se/example/jsp/public/right_public_student_ical.jsp?key=<b>238893jdnawdwd828282</b>
+In the URL examp<le above the key is formatted with bold text.
