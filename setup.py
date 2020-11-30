@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="schoolsoft_food_parser",
-    version="0.0.2",
+    name="ss_food_parser",
+    version="0.0.1",
     author="Elias Juremalm",
     author_email="eliass.juremalm@gmail.com",
     description="A package for parsing food sheet from schoolsoft",
